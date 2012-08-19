@@ -6,6 +6,4 @@ struct Square
 	double side_size;
 };
 
-WTF?
-
 #endif
